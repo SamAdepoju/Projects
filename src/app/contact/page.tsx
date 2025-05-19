@@ -6,7 +6,6 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { ShootingStars } from "@/components/ui/shooting-stars";
 import { StarsBackground } from "@/components/ui/stars-background";
-import { toast } from "react-hot-toast";
 
 export default function Contact() {
   const [currentTime, setCurrentTime] = useState("");

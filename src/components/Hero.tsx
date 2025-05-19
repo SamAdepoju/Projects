@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { FaGithub, FaLinkedin, FaXTwitter } from "react-icons/fa6";
+import { FaGithub, FaLinkedin } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { ScrollArrow } from "./ui/scroll-arrow";
 import { motion } from "framer-motion";
