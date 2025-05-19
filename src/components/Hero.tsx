@@ -59,7 +59,7 @@ function Hero() {
         <p className="text-lg md:text-xl text-neutral-300">
           Building smart data systems for real-world results.
           <span className="block mt-2 text-neutral-400">
-            Analyst. Architect. Automator.
+            Senior data analyst.
           </span>
         </p>
       </motion.div>
